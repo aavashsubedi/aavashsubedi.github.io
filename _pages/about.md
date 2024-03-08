@@ -21,6 +21,6 @@ My interest spans across different areas of deep learning, with the aims of
 * Creating new foundational models inspired by problems rooted in the natural sciences
 * Applying these models to build better models for Weather Predictions, Climate Change, Material and Drug discovery. 
 
-Throughout my degree, I have had the good fortune to work on many intersting machine learning problems. I completed an internship with [Dr Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (summer 2023) at EPFL. Prior to this I worked as a research internships with [Professor Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) (summer 2022) at the University of Oxford.
+Throughout my degree, I have had the good fortune to work on many intersting machine learning problems. I completed an internship with [Dr Dorina Thanou](https://people.epfl.ch/dorina.thanou?lang=en) (summer 2023) at EPFL. Prior to this I worked as a research intern with [Professor Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) (summer 2022) at the University of Oxford.
 I have also worked on applications of deep learning to near-term cloud forecasting and represented my university in the inaugral [ClimateHack](https://climatehack.ai/). Please see [*here*](https://aavashsubedi.github.io/cv/) for my CV.
 
