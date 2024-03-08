@@ -4,7 +4,7 @@ layout: default
 
 <style>
 
-  .social-icon {  font-size: 0.1rem;  /* Adjust font-size for desired icon size */
+  .social-icon {  font-size: 0.01rem;  /* Adjust font-size for desired icon size */
   }
 
   .social {
@@ -12,7 +12,7 @@ layout: default
     justify-content: flex-start;  /* Centers icons to the right */
   }
 </style>
-<div class="post" style="max-width: 1200px; margin:0 0 auto;">
+<div class="post" style="max-width: 900px; margin:0 0 auto;">
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
@@ -60,7 +60,7 @@ layout: default
     {% endif %}
 
     <div class="clearfix">{{ content }}</div>
-    
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">
