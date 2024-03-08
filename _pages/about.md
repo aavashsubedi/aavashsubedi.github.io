@@ -13,7 +13,16 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+<style>
+  body {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px; /* Adjust the font size as needed */}
+</style>
+
+
 ---
+
 
 I am a final year MPhys: Physics student at the University of Manchester. I am currently working at the intersection of combinatorial optimisers and graph neural networks applied to the upcoming Square Kilometer Array at the JBCA, supervised by [Professor Anna Scaife](https://www.turing.ac.uk/people/researchers/anna-scaife). 
 
