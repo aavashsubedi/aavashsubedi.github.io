@@ -1,5 +1,11 @@
+---
+disable_navbar: true
+---
+
 <header>
   <!-- Nav Bar -->
+  {% unless disable_navbar %}
+
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
     <div class="container">
       {% if page.permalink != '/' %}
@@ -120,6 +126,8 @@
       </div>
     </div>
   </nav>
+  {% endif %}
+
   {% if site.enable_progressbar %}
     <!-- Scrolling Progress Bar -->
     <progress id="progress" value="0">
