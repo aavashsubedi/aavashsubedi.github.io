@@ -1,9 +1,8 @@
----
-disable_navbar: true
----
-
 <header>
   <!-- Nav Bar -->
+  #set disable navbar to true
+  {% assign disable_navbar = true %}
+
   {% unless disable_navbar %}
 
   <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}" role="navigation">
