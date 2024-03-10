@@ -19,11 +19,14 @@ layout: default
             font-weight: normal; /* Change the font weight */
             font-size: 1.3rem;
         }
+  .post-title-main-page{
+    font-size: 1.5rem;
+  }
 </style>
 </head>
 <div class="post" style="max-width: 1100px; margin:105px auto 0;">
   <header class="post-header" style="font-size: 24px;">
-    <h1 class="post-title">
+    <h1 class="post-title post-title-main-page">
       {% if site.title == 'blank' %}
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
