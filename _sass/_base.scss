@@ -18,6 +18,11 @@ span,
 strong {
   color: var(--global-text-color);
 }
+body {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.4rem;
+  font-weight: normal;
+}
 
 hr {
   border-top: 1px solid var(--global-divider-color);
@@ -382,7 +387,7 @@ ul.task-list input[type="checkbox"] {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1rem;
 
     a {
       i::before {
